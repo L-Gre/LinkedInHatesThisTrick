@@ -21,7 +21,7 @@ Very handy: The message stays on your screen until you close it by clicking the 
     - Chrome: open `chrome://extensions`
     - Brave: open `brave://extensions`
 3. Enable Developer Mode (toggle in the top-right corner).
-4. Click `Load unpacked` and navigate select the `LinkedInHatesThisTrick` folder.
+4. Click `Load unpacked` and navigate to the `LinkedInHatesThisTrick` file folder (not the repo folder!).
 5. Now, whenever you navigate to a URL that matches *`https://www.linkedin.com/feed/`*, the alert message will appear.
 6. Click the `X` to close the message.
 
