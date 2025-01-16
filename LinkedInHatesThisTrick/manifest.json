@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "LinkedIn Feed Message",
+  "name": "LinkedInHatesThisTrick",
   "version": "1.0",
   "permissions": ["tabs", "activeTab"],
   "host_permissions": ["*://*.linkedin.com/*"],
