@@ -9,7 +9,7 @@ LIHTT is a local Chrome / Brave browser plug-in that will display a gentle remin
 Very handy: The message stays on your screen until you close it by clicking the `X` icon on screen!
 
 ## Key Features
-* **Always ready**: Works also when you click the feed button or switch tabs back to LinkedIn feed.
+* **Always ready**: Works when you load the page, click the feed button or switch tabs back to LinkedIn feed.
 * **Customisable Message**: Change message to whatever you like.
 * **75% Screen Occupancy**: The overlay is centered and sized to 75% of the screen.
 * **Styling**: The overlay is styled with a translucent background and centralized text.
